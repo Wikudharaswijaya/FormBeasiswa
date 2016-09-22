@@ -20,41 +20,41 @@
         android:src="@mipmap/ic_launcher" />
 
     <TextView
-        android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Nama : " />
 
     <EditText
-        android:id="@+id/editText"
+        android:id="@+id/editTextNama"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Jenis Kelamin " />
 
     <RadioGroup
+        android:id="@+id/RadioGroupStatus"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content">
 
         <RadioButton
-            android:id="@+id/radioButton"
+            android:id="@+id/RBL"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Laki-Laki" />
 
         <RadioButton
-            android:id="@+id/radioButton2"
+            android:id="@+id/RBP"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Perempuan" />
     </RadioGroup>
 
     <TextView
-        android:id="@+id/textView3"
+        android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hobi" />
@@ -78,14 +78,20 @@
         android:text="Menyanyi" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonOK"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Submit" />
 
     <TextView
-        android:id="@+id/textView4"
+        android:id="@+id/textViewHasil"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hasil" />
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="right" />
 </LinearLayout>

@@ -11,9 +11,9 @@ Validasi Form :
 
 Screenshot Aplikasi :
 
-https://github.com/wikudharaswijaya/FormBeasiswa/blob/master/screenshoot1.jpg
-https://github.com/wikudharaswijaya/FormBeasiswa/blob/master/screenshoot2.jpg
-https://github.com/wikudharaswijaya/FormBeasiswa/blob/master/screenshoot3.jpg
+[!Screenshot1](https://github.com/wikudharaswijaya/FormBeasiswa/blob/master/screenshoot1.jpg)
+[!Screenshot2](https://github.com/wikudharaswijaya/FormBeasiswa/blob/master/screenshoot2.jpg)
+[!Screenshot3](https://github.com/wikudharaswijaya/FormBeasiswa/blob/master/screenshoot3.jpg)
 
 Link APK :
   https://github.com/Wikudharaswijaya/FormBeasiswa
